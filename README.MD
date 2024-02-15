@@ -4,7 +4,7 @@
 
 - <samp> 💼 Actualmente trabajo de <b> Desarrollador de Software </b>
 - <samp> 📚 Estudiante de Ingeniería en Informática en la UBA
-- <samp> 🌱 Fortaleciendo conocimientos en <b> DevOps | Cloud Architecture | Cyber Security
+- <samp> 🌱 Fortaleciendo conocimientos en <b> DevOps | Object Relational Mapping (prisma, sequelize)
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
