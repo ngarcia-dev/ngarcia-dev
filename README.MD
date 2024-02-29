@@ -1,10 +1,10 @@
-<h1 align="center"> <samp> Hola, bienvenido a mi perfil de GITHUB <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
+<h1> <samp> Bienvenido a mi perfil de Github <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4></h1>
 
 <h3> :man_technologist: Acerca de mí </h3>
 
-- <samp> 💼 Actualmente trabajo de <b> Desarrollador de Software </b>
+- <samp> 💼 Actualmente trabajo de <b> Software Developer </b>
 - <samp> 📚 Estudiante de Ingeniería en Informática en la UBA
-- <samp> 🌱 Fortaleciendo conocimientos en <b> DevOps | Object Relational Mapping (prisma, sequelize)
+- <samp> 🌱 Fortaleciendo conocimientos en <b> Design Patterns | Object Relational Mapping | Refactoring
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
