@@ -19,7 +19,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
 ![COMPOSER](https://img.shields.io/badge/-composer-000000?style=for-the-badge&logo=composer)
 ![PYTHON](http://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=fff&style=for-the-badge)
 
 <h3 align="center"> Conecta conmigo:</h3>
 <p align="center">
